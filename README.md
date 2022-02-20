@@ -1,5 +1,9 @@
 # LocationFilter
-location filtering with high accuracy
+location filtering with high accuracy.
+Calculate accurate data on speed, deviation from the route, calories burned and more 
+
+# Example Result after filtering locations
+![](art/preview.png)
 
 ## Installation
 
