@@ -3,7 +3,7 @@ Location filtering with high accuracy (about 95 %):fire::fire::fire:.
 Calculate accurate data on speed, deviation from the route, calories burned and more 
 
 # Example Result after filtering locations
-
+![](art/preview.png)
 
 ## Installation
 
